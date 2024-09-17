@@ -1,4 +1,3 @@
-Here's how you can write a **README** file for running the bash script that fetches all files larger than 1GB from an AlmaLinux system with **WHM** and **cPanel** installed.
 
 ### README
 
